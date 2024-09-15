@@ -1,4 +1,5 @@
-**01/2018 - Present**
+**01/2018 - Present**  
+
 **Position : Equity | Crypto --- Trader/Investor**  
 - Intraday Trading | Swing Trading | Value Investment | Algorithmic Trading 
 - Developing/Creating trading models/algorithms/indicators using Metastock and Python programming languages considering different type of informations and methods such as Candle Sticks, OHLC(V) chart, Trend analysis, Indicators etc...
